@@ -5,7 +5,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		
 		String obj = "GIT_Try";
-		
+		//Adding a comment in Test cases
 	}
 
 }
